@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">短信提醒</string>
+    <string name="action_settings">设置</string>
+    <string name="install_success">程序已经成功安装！\n请选择您需要的提醒模式！</string>
+    <string name="ok">确认</string>
+    <string name="receive_from">收到短信来自：\n</string>
+    <string name="content">短信内容：\n</string>
+    <string name="close">关闭</string>
+    <string name="call">拨号</string>
+    <string name="reply">回复</string>
+    <string name="send">发送</string>
+    <string name="cancel">取消</string>
+    <string name="reply_msg">回复短信到：</string>
+    <string name="send_finish">短信已经成功发送！</string>
+    <string name="about">如果您对本应用有意见或者建议，请发送意见和建议到doublezhanc@gmail.com \n谢谢!</string>
+    <string name="show_toast">仅提醒</string>
+    <string name="show_dialog">显示对话框</string>
+    
+</resources>
